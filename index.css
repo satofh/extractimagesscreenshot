@@ -1,0 +1,21 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    width: 98%;
+    padding: 10px;
+    font-family: system-ui;
+    text-align: left;
+    font-size:30px;
+}
+
+h1
+{
+	font-size: 60px;
+	vertical-align: middle;
+}
+h1 img
+{
+	vertical-align: middle;
+}
